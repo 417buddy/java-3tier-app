@@ -1,0 +1,16 @@
+# Maven target folder
+target/
+
+# Logs
+*.log
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Generated files
+*.class
